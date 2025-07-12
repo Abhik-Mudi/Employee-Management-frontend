@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+body{
+    background-color: black;
+    color: white;
+
+}
+
+#tasks::-webkit-scrollbar{
+    display: none;
+}
+
+button{
+    cursor: pointer;
+}

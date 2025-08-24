@@ -1,7 +1,7 @@
 // sample data for localStorage
 const admin = {
     "id": "admin001",
-    "name": "Alice Manager",
+    "name": "Abhik Mudi",
     "email": "admin@me.com",
     "password": "1234"
 }

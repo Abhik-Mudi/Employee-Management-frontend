@@ -12,8 +12,8 @@ const App = () => {
 
   
   const authData=useContext(AuthContext)
-  console.log(authData)
-  console.log(loggedInUser)
+  // console.log(authData)
+  // console.log(loggedInUser)
 
   // After the submission of login form, this function will be called
   const handleSubmit=(email, password)=>{

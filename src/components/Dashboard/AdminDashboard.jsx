@@ -34,6 +34,11 @@ const AdminDashboard = ({ handleLogOut }) => {
     }
     console.log(authData.employees)
     localStorage.setItem("employees", JSON.stringify(authData.employees))
+    setTitle('')
+    setDate('')
+    setAssignTo('')
+    setCategory('')
+    setDescription('')
   }
 
   return (
